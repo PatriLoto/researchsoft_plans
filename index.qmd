@@ -18,9 +18,9 @@ It can also provide a structured way to consider important aspects such as docum
 
 ## Declaring a research software development plan
 
-Here is an expanded version:
-
 The research software development plan can be declared using nanopublications, often referred to as nanopubs. Nanopubs are small, structured knowledge containers designed to communicate individual pieces of information in a clear and machine-readable way.
+
+![Nanopubs template for declaring a research software development plan](images/nanopub_research_soft_template.png)
 
 Each nanopublication typically consists of three main parts: an assertion, provenance information, and publication information. The assertion contains the main piece of knowledge being declared. Provenance provides information about where the assertion came from, how it was created, or the evidence supporting it. Publication information records details about the nanopublication itself, such as who created or published it and when.
 
