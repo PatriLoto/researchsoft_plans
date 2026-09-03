@@ -44,7 +44,7 @@ reproducibility, sustainability, and long-term maintenance.
 
 ## Creating a research software management plan
 
-### What's a Software Management Plan(SMP)
+### What's a Software Management Plan (SMP)
 
 An SMP describes how a software project is developed, maintained, and
 preserved over time.
