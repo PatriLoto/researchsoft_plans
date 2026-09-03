@@ -100,6 +100,8 @@ considerations, etc.
 
 ### Template for a Research Software Management Plan with Quarto
 
+![Template for research software management plan](images/sof_management_plan_template.PNG)
+
 This [template for SMP](https://github.com/PatriLoto/PGSoftware) is a
 document that is intended to be a practical guide with the information
 required or expected in an SMP.
