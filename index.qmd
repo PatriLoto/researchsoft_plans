@@ -51,7 +51,7 @@ preserved over time.
 
 ### Requirements for an SMP
 
-The requirements for an SMP depending on [management
+The requirements for an SMP depend on [management
 level](https://zenodo.org/records/1344612)(low, medium, high). Different
 levels of management will need different sets of requirements. The
 following requirements are those that a Software Management Plan should
