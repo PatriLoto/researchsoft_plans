@@ -85,7 +85,7 @@ software should be cited.
 • **Testing:** incorporate tests to ensure your software continues to
 work as intended.
 
-• **Software Engineering quality:** make sure your software adheres to
+• **Software engineering quality:** make sure your software adheres to
 relevant code quality standards (styling, modularity, etc.).
 
 • **Packaging:** use appropriate package managers to allow users to
