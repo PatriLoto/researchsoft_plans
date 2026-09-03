@@ -52,53 +52,55 @@ preserved over time.
 ### Requirements for an SMP
 
 The requirements for an SMP depend on [management
-level](https://zenodo.org/records/1344612)(low, medium, high). Different
+level](https://zenodo.org/records/1344612) (low, medium, high). Different
 levels of management will need different sets of requirements. The
 following requirements are those that a Software Management Plan should
 include; however, each creator of a Software Management Plan should
 adapt them to the needs of their own software project:
 
-• **Purpose:** clearly state the purpose of the software.
+- **Purpose:** clearly state the purpose of the software.
 
-• **Version control:** use a version control system. Adequate versioning
+- **Version control:** use a version control system. Adequate versioning
 of research software facilitates management of research software.
 
-• **Repository:** deposit releases of your software in an appropriate
+- **Repository:** deposit releases of your software in an appropriate
 repository. This should preferably be a publicly accessible repository.
 
-• **User documentation:** explain clearly what the software does and how
+- **User documentation:** explain clearly what the software does and how
 it should be used.
 
-• **Software licensing and compatibility:** assign a licence specifying
+- **Software licensing and compatibility:** assign a licence specifying
 conditions of use for your software, including patenting information (if
 relevant).
 
-• **Deployment documentation:** explain system requirements (e.g.
+- **Deployment documentation:** explain system requirements (e.g.
 dependencies) for deploying the software.
 
-• **Citation:** include relevant information indicating how your
+- **Citation:** include relevant information indicating how your
 software should be cited.
 
-• **Developer documentation:** explain how the software can be modified
+- **Developer documentation:** explain how the software can be modified
 (docstrings, in-line comments, etc.), tested, and contributed to.
 
-• **Testing:** incorporate tests to ensure your software continues to
+- **Testing:** incorporate tests to ensure your software continues to
 work as intended.
 
-• **Software engineering quality:** make sure your software adheres to
+- **Software engineering quality:** make sure your software adheres to
 relevant code quality standards (styling, modularity, etc.).
 
-• **Packaging:** use appropriate package managers to allow users to
+- **Packaging:** use appropriate package managers to allow users to
 install/deploy your software with ease.
 
-• **Maintenance:** make sure there are arrangements in place for the
+- **Maintenance:** make sure there are arrangements in place for the
 maintenance and reuse of your software.
 
-• **Risk analysis:** consider other factors that could have an impact on
+- **Risk analysis:** consider other factors that could have an impact on
 your software. For example compliance with privacy policies, security
 considerations, etc.
 
 ### Template for a Research Software Management Plan with Quarto
+
+![Template for research software management plan](images/sof_management_plan_template.PNG)
 
 This [template for SMP](https://github.com/PatriLoto/PGSoftware) is a
 document that is intended to be a practical guide with the information
