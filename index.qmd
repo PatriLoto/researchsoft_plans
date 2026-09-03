@@ -104,7 +104,7 @@ This [template for SMP](https://github.com/PatriLoto/PGSoftware) is a
 document that is intended to be a practical guide with the information
 required or expected in an SMP. It's important to note that this
 Note: This template is part of a package currently under development as a part of the
-is part of a project belonging to [rOpenSci's 2026–2027 Champions
+[rOpenSci's 2026–2027 Champions
 Program cohort](https://ropensci.org/blog/2026/06/09/champions-2026/).
 
 ## Declaring a research software development plan
