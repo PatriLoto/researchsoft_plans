@@ -101,7 +101,7 @@ considerations, etc.
 ### Template for a Research Software Management Plan with Quarto
 
 This [template for SMP](https://github.com/PatriLoto/PGSoftware) is a
-document that intend to be a practical guide with the information
+document that is intended to be a practical guide with the information
 required or expected in an SMP. It's important to note that this
 template is part of a package currently under development, and that it
 is part of a project belonging to [rOpenSci's 2026–2027 Champions
